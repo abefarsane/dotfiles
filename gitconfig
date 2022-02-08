@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = abefarsane@gmail.com
+	name = abdollah farsane
